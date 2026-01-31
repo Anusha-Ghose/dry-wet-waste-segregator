@@ -2,33 +2,19 @@
 
 Arduino based dry and wet waste segregation system
 
-
-
 \# Dry \& Wet Waste Segregator
-
-
 
 A smart Arduino-based system to automatically segregate dry and wet waste.  
 
 This project demonstrates embedded systems, sensors, and actuator control in a real-world application.
 
-
-
 ---
-
-
 
 \##🎥 Working Video: https://drive.google.com/file/d/1CeUColOzh2gZCMScauFfGPhRgsgXGpdO/view?usp=sharing
 
-
-
 ---
 
-
-
 \## 📁 Project Structure
-
-
 
 \- Code: Arduino code (Code.ino)  
 
@@ -38,15 +24,9 @@ This project demonstrates embedded systems, sensors, and actuator control in a r
 
 \- Docs: Project report and presentation (Docs folder)
 
-
-
 ---
 
-
-
 \## ⚙️ Hardware Setup
-
-
 
 \- Arduino Uno  
 
@@ -60,49 +40,23 @@ This project demonstrates embedded systems, sensors, and actuator control in a r
 
 \- Ultrasonic Sensor
 
-
-
 The system detects dry or wet waste and moves it into the corresponding bin automatically.
 
-
-
 ---
-
-
 
 \##📸Images
 
-
-
-Project images can be found in the Images folder. Example:
-
-!\[Setup](Images/pic3.jpg)
-
-
+Project images can be found in the Images folder.
 
 ---
-
-
 
 \##📄Circuit Diagram
 
-
-
 The schematic is in the Circuit folder:
-
-
-
-!\[Circuit](Cicuit/Schematic-Diagram.jpg)
-
-
 
 ---
 
-
-
 \##📝Docs
-
-
 
 Project report and presentation are in the Docs folder:  
 
@@ -110,15 +64,9 @@ Project report and presentation are in the Docs folder:
 
 \- Dry-Wet-Waste-Segregator-Bin.pptx
 
-
-
 ---
 
-
-
 \## 🌟 Features
-
-
 
 \- Automatic segregation of dry and wet waste  
 
@@ -126,11 +74,7 @@ Project report and presentation are in the Docs folder:
 
 \- Easily expandable for IoT integration
 
-
-
 ---
-
-
 
 \## 🔮 Future Work
 
