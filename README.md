@@ -10,11 +10,11 @@ This project demonstrates embedded systems, sensors, and actuator control in a r
 
 ---
 
-\🎥 Working Video: https://drive.google.com/file/d/1CeUColOzh2gZCMScauFfGPhRgsgXGpdO/view?usp=sharing
+🎥 Working Video: https://drive.google.com/file/d/1CeUColOzh2gZCMScauFfGPhRgsgXGpdO/view?usp=sharing
 
 ---
 
-\📁Project Structure
+📁Project Structure
 
 \- Code: Arduino code (Code.ino)  
 
@@ -26,7 +26,7 @@ This project demonstrates embedded systems, sensors, and actuator control in a r
 
 ---
 
-\⚙️ Hardware Setup
+⚙️ Hardware Setup
 
 \- Arduino Uno  
 
@@ -44,19 +44,19 @@ The system detects dry or wet waste and moves it into the corresponding bin auto
 
 ---
 
-\📸Images
+📸Images
 
 Project images can be found in the Images folder.
 
 ---
 
-\📄Circuit Diagram
+📄Circuit Diagram
 
 The schematic is in the Circuit folder:
 
 ---
 
-\📝Docs
+📝Docs
 
 Project report and presentation are in the Docs folder:  
 
@@ -66,7 +66,7 @@ Project report and presentation are in the Docs folder:
 
 ---
 
-\🌟Features
+🌟Features
 
 \- Automatic segregation of dry and wet waste  
 
@@ -76,7 +76,7 @@ Project report and presentation are in the Docs folder:
 
 ---
 
-\🔮Future Work
+🔮Future Work
 
 
 
